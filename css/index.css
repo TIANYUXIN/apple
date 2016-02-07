@@ -315,7 +315,7 @@ article .copy .copy-inner .links li a{
 @media(max-width:735px){
 	article .hero-tu{
     position: absolute;left:50%;top:50px;margin-left:-200px;width:100%; 
-    min-width:200px;max-width:400px;background:url(../img/z.jpg) no-repeat;height:366px;display:block; margin-top:-46px;  
+    max-width:400px;background:url(../img/z.jpg) no-repeat;height:366px;display:block; margin-top:-46px;   
     }
 	#smallul{
 		display:block; 
