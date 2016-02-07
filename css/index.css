@@ -313,9 +313,22 @@ article .copy .copy-inner .links li a{
 }
 
 @media(max-width:735px){
+	article{
+	height:78%;min-height:350px;     
+    }
+    article .copy{
+	left:50%;top:auto;vertical-align: top;height:41%;padding-top:1px;
+    }
 	article .hero-tu{
-    position: absolute;left:50%;top:50px;margin-left:-200px;width:100%; 
-    min-width:300px;max-width:400px;background:url(../img/Z.jpg) no-repeat;height:366px;display:block; margin-top:-46px; z-index: 4;  
+    position: absolute;left:50%;top:50px;margin-left:-12.5em;width:100%; 
+    min-width:320px;max-width:400px;background:url(../img/Z.jpg) no-repeat;height:122px;display:block; margin-top:-46px; z-index: 4;background-size:100% 122px;  
+    }
+    article .hero-tutv{
+    position: absolute;left:50%;top:200px;margin-left:-68px;
+	width:100%;max-width:136px;background:url(../img/3/1.png) no-repeat;height:50px;display:block;margin-top:-20px; 
+    }
+    article .copy .copy-inner h2{
+	font-size:1.625em;line-height:1.1429;font-weight:200;
     }
 	#smallul{
 		display:block; 
