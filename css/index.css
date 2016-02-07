@@ -320,8 +320,8 @@ article .copy .copy-inner .links li a{
 	left:50%;top:auto;vertical-align: top;height:41%;padding-top:1px;
     }
 	article .hero-tu{
-    position: absolute;left:50%;top:50px;margin-left:-12.5em;width:100%; 
-    min-width:320px;max-width:400px;background:url(../img/Z.jpg) no-repeat;height:122px;display:block; margin-top:-46px; z-index: 4;background-size:100% 122px;  
+    position: absolute;left:50%;top:50px;margin-left:-10em;width:100%; 
+    min-width:320px;max-width:400px;background:url(../img/Z.jpg) no-repeat;height:122px;display:block; margin-top:-46px; z-index: 4;background-size:320px 122px;  
     }
     article .hero-tutv{
     position: absolute;left:50%;top:200px;margin-left:-68px;
