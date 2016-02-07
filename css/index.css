@@ -321,7 +321,7 @@ article .copy .copy-inner .links li a{
     }
 	article .hero-tu{
     position: absolute;left:50%;top:50px;margin-left:-12.5em;width:100%; 
-    min-width:320px;max-width:400px;background:url(../img/Z.jpg) no-repeat;height:122px;display:block; margin-top:-46px; z-index: 4;background-size:320px 122px;box-sizing:border-box;  
+    min-width:320px;max-width:400px;background:url(../img/Z.jpg) no-repeat 40px 0px;height:122px;display:block; margin-top:-46px; z-index: 4;background-size:320px 122px;box-sizing:border-box;  
     }
     article .hero-tutv{
     position: absolute;left:50%;top:200px;margin-left:-68px;
