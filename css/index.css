@@ -50,10 +50,10 @@ nav #smallul:after{
 	content:"";clear:both;display:inline-block;width:100%;height:0;font-size:0;line-height:0;  
 }
 nav #smallul .logo{
-	position: absolute;left:50%; margin-left:-22px; 
+	position: absolute;left:50%; margin-left:-11px; 
 }
 nav #smallul .bag{
-	left:100%;margin-left:-22px; 
+	left:95%; 
 }
 nav #smallul label{
 	left:1%;position:absolute; 
